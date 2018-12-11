@@ -1,7 +1,11 @@
 ---
 output: 
   html_document: 
+    fig_caption: yes
+    
     keep_md: yes
+    
+
 ---
 #Course Project 1 - Reproducible Research
 
